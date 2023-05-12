@@ -17,7 +17,7 @@ const Hero = () => {
       <h1 className="head_text text-tertiary">Summarize Your Articles with <br className="max-md:hidden" /> <span className="orange_gradient">OpenAI GPT-4</span>
        </h1>
        <h2 className="desc">
-        Tired of reading lengthy articles? Use the <span className="text-tertiary font-bold">Enigma AI Summarizer</span>  to transform long boring articles into clear and consise summaries  
+        Tired of reading lengthy articles? Use the <span className="text-tertiary font-bold">Enigma AI Summarizer</span>  to transform long boring articles into clear and concise summaries  
        </h2>
     </header>
   )
