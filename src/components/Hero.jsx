@@ -8,7 +8,7 @@ const Hero = () => {
         
         <button 
         type="button"
-        onClick={() => window.open('https://twitter.com')}
+        onClick={() => window.open('https://twitter.com/dNeoteric_One')}
         className="black_btn font-bold"
         >
   Twitter
